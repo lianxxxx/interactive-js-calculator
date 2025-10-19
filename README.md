@@ -1,6 +1,6 @@
 # JS Calculator
 
-A fully functional calculator built with **JavaScript** and styled using **Flexbox** (or Grid). This project demonstrates DOM manipulation, event handling, and responsive layout design.
+A fully functional calculator built with **JavaScript** and styled using  Grid. This project demonstrates responsive layout design.
 
 ## Features
 - Basic arithmetic operations: addition, subtraction, multiplication, division
@@ -9,9 +9,5 @@ A fully functional calculator built with **JavaScript** and styled using **Flexb
 - Interactive UI with JavaScript functionality
 
 ## Demo
-You can see the live demo here: [Link to your live project]()
+You can see the live demo here: [https://interactive-js-calculator.vercel.app/]
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/js-calculator.git
